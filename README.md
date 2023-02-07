@@ -10,5 +10,8 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=BD-CYBER&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 
-
-[![Facebook](https://img.shields.io/badge/Facebook-Mamun-blue?style=flat-square&logo=facebook)](https://www.facebook.com/4R.Mamun)</br>
+## My Social Media
+<p align="center">
+<a href="https://www.facebook.com/4R.Mamun"><img title="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"></a>
+<a href="https://youtube.com/@iTechhouse"><img title="YouTube" src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=YouTube"></a>
+<a href="https://github.com/BD-CYBER"><img title="Github" src="https://img.shields.io/badge/Github-green?style=for-the-badge&logo=github"></a>
