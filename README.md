@@ -7,7 +7,7 @@
 <center>
 <a href="https://github.com/BD-CYBER"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=BD-CYBER&theme=monokai"></a>
 
-<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
+<h2> <B> GitHub Stats </B></h2>
 
 <table border="1">
   <tr>
