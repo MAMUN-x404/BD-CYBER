@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=4000&size=35&pause=1000&color=FF0A0A&background=693CB300&width=500&height=80&lines=আসসালামুয়ালাইকুম" alt="Typing SVG" /></a>
+<p align="center"><img src="https://img.shields.io/badge/I'M%20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
